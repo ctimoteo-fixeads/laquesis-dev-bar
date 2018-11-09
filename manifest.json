@@ -4,8 +4,9 @@
   "description": "To help with tests in develop/Staging environment. With this extension, we can choose experiment to be forced in both Frontend/Backend (PHP)",
   "permissions": [
       "cookies",
-      "https://www.playground.lisbontechhub.com/",
-      "http://mystandvirtual.pt/",
+      "<all_urls>",
+      "http://*/*",
+      "https://*/*",
       "activeTab",
       "declarativeContent",
       "storage"
