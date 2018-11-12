@@ -1,0 +1,10 @@
+button {
+    height: 30px;
+    width: 90%;
+    outline: none;
+    margin: 10px 20px 10px 10px;
+}
+
+body {
+    background-color: #dedede;
+}
